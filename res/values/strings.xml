@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TomatoActivity!</string>
+    <string name="app_name">Tomato</string>
+    <string name="work_btn">work</string>
+	<string name="break_btn">break</string>
+	<string name="cancel_btn">cancel</string>
+	<string name="settings">Settings</string>
+	
+	<string name="work_fragment">工作时段:</string>
+	<string name="break_fragment">休息时段:</string>
+	<string name="time_unit">分钟</string>
+	<string name="minute_unit">分</string>
+	<string name="second_unit">秒</string>
+	<string name="notices">提醒方式</string>
+	<string name="sound">铃声</string>    
+	<string name="vibrate">震动</string>    
+	<string name="light">指示灯</string>    
+	
+	<string name="finished">Finished</string>
+	<string name="cancel">Cancel</string>
+        
+</resources>
