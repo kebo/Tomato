@@ -1,0 +1,5 @@
+.bundle
+.project
+.pydevproject
+.settings/*
+*.pyc
