@@ -171,12 +171,15 @@ public class TomatoActivity extends Activity {
 		mp.reset();
 		try{
 			mp.setDataSource(TomatoActivity.this, 
-					RingtoneManager.getDefaultUri(RingtoneManager.TYPE_ALARM));
+					RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION));
 			mp.prepare();
 			mp.start();
 		}catch(IOException e){
 			System.out.println(e);
 		}
+		
+		
+		
 	}
 	
 }
